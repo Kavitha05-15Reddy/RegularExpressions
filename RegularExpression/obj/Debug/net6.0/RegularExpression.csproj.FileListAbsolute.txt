@@ -1,0 +1,14 @@
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\bin\Debug\net6.0\RegularExpression.exe
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\bin\Debug\net6.0\RegularExpression.deps.json
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\bin\Debug\net6.0\RegularExpression.runtimeconfig.json
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\bin\Debug\net6.0\RegularExpression.dll
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\bin\Debug\net6.0\RegularExpression.pdb
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\obj\Debug\net6.0\RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\obj\Debug\net6.0\RegularExpression.AssemblyInfoInputs.cache
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\obj\Debug\net6.0\RegularExpression.AssemblyInfo.cs
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\obj\Debug\net6.0\RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\obj\Debug\net6.0\RegularExpression.dll
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\obj\Debug\net6.0\refint\RegularExpression.dll
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\obj\Debug\net6.0\RegularExpression.pdb
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\obj\Debug\net6.0\RegularExpression.genruntimeconfig.cache
+C:\Users\Ramanjaneyareddy\source\repos\RegularExpression\RegularExpression\obj\Debug\net6.0\ref\RegularExpression.dll
